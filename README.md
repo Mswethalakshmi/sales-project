@@ -71,7 +71,6 @@ This project is an end-to-end **sales data analysis and visualization** dashboar
 - `Details.csv` – Raw data
 - `Merged_Sales_Data.csv` – Final cleaned and joined dataset
 - `Sales_Dashboard.xlsx` – Excel dashboard with all pivot analyses and charts
-- (Optional) `screenshots/` – Folder with visual preview of the dashboard
 
 ---
 
